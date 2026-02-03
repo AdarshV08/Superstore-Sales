@@ -66,9 +66,7 @@ This Tableau project presents an interactive dashboard and comprehensive visuali
 
 ### Interactive Dashboard
 
-*Add your interactive dashboard screenshot here*
-
-![Interactive Dashboard](assets/images/interactive-dashboard.png)
+![Interactive Dashboard](Superstore-Sales/Interactive Dashboard.png)
 
 **Dashboard Features**:
 - Global filters for Region, Segment, Category, and Time Period
